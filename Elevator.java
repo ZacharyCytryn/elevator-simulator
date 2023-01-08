@@ -1,18 +1,9 @@
-/**
- * Zachary Cytryn
- * ID: 114283379
- * Email: zachary.cytryn@stonybrook.edu
- * Homework #3
- * CSE 214 Recitation 30
- */
-
 package elevatorSimulator;
-
 
 /**
  * This class represents an elevator that will be have different states, requests, and change floor frequently.
  * 
- * @author zacharycytryn
+ * @author Zachary Cytryn
  */
 public class Elevator {
 	private int currentFloor;
