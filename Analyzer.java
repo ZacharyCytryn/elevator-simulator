@@ -1,11 +1,3 @@
-/**
- * Zachary Cytryn
- * ID: 114283379
- * Email: zachary.cytryn@stonybrook.edu
- * Homework #3
- * CSE 214 Recitation 30
- */
-
 package elevatorSimulator;
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -13,7 +5,7 @@ import java.util.Scanner;
 /**
  * Contains main method to carry out the simulation along with stats from the simulation
  * 
- * @author zacharycytryn
+ * @author Zachary Cytryn
  *
  */
 public class Analyzer {
