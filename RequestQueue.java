@@ -1,18 +1,10 @@
-/**
- * Zachary Cytryn
- * ID: 114283379
- * Email: zachary.cytryn@stonybrook.edu
- * Homework #3
- * CSE 214 Recitation 30
- */
-
 package elevatorSimulator;
 import java.util.ArrayList;
 
 /**
  * This class represents a queue of requests, extending arraylists for its structure
  * 
- * @author zacharycytryn
+ * @author Zachary Cytryn
  *
  * @param <Request>
  * Object that will be stored in the array
