@@ -1,18 +1,10 @@
-/**
- * Zachary Cytryn
- * ID: 114283379
- * Email: zachary.cytryn@stonybrook.edu
- * Homework #3
- * CSE 214 Recitation 30
- */
-
 package elevatorSimulator;
 import java.lang.Math;
 
 /**
  * This class represents the simulator that takes all the parameters and creates a simulation
  * 
- * @author zacharycytryn
+ * @author Zachary Cytryn
  */
 public class Simulator {
 	
