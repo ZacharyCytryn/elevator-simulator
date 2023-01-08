@@ -1,21 +1,10 @@
-/**
- * Zachary Cytryn
- * ID: 114283379
- * Email: zachary.cytryn@stonybrook.edu
- * Homework #3
- * CSE 214 Recitation 30
- */
-
-//BOOLEAN SOURCE CODE TAKEN FROM LECTURE NOTES
-
 package elevatorSimulator;
 import java.lang.Math;
 
 /**
  * This class represents BooleanSource, which determines whether an event occurs or not based on probability
- * TAKEN FROM LECTURE
  * 
- * @author zacharycytryn
+ * @author Zachary Cytryn
  */
 public class BooleanSource {
 	private double probability;
