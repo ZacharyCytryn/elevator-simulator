@@ -1,18 +1,10 @@
-/**
- * Zachary Cytryn
- * ID: 114283379
- * Email: zachary.cytryn@stonybrook.edu
- * Homework #3
- * CSE 214 Recitation 30
- */
-
 package elevatorSimulator;
 import java.lang.Math;
 
 /**
  * The Request class contains the methods for "requesting" and elevator to move from one place to another
  * 
- * @author zacharycytryn
+ * @author Zachary Cytryn
  *
  */
 public class Request {
